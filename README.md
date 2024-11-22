@@ -15,7 +15,7 @@ You can either:
 2. Set key.cfg file. Each line should be like:
 
 ```
-OPENAI_API_KEY: 'sk-proj-3zhEH6n5LHNcQySnymQCT3BlbkFJsgz1BfmCafkoPwnWLOWT'
+OPENAI_API_KEY: 'xxxxxxx'
 ```
 
 ### To install iverilog {.tabset}
